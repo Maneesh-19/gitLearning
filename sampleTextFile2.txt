@@ -1,3 +1,7 @@
 This is simple text file, text is ok. updating the file.
-Updating file 1.
+<<<<<<< HEAD
+Updating file.
 Changes in Master
+Updating file 2.
+some new code changes updates
+new code changes.
